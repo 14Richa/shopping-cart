@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "I am Groot",
+      "description": "This is the stuffed Groot; it makes an excellent toy for any age group due to it's soft nature and adorable design.",
+      "image": "1-groot.jpg",
+      "age": [
+        "0", "+"
+      ],
+      "price": 219.99
+    },
+    
+    {
+      "id": 2,
+      "name": "Minion",
+      "description": "It is a two-eyed and medium-sized minion with nice combed hair. He is huggable and makes a great best friend for your child.",
+      "image": "3-minion-dave.jpg",
+      "age": [
+        "0", "10"
+      ],
+      "price": 612.99
+    },
+    
+    {
+      "id": 3,
+      "name": "Minion 2",
+      "description": "Minion 2 is a tall, two-eyed minion with great cut hair and is usually seen wearing his golf costume. He is extremely huggable and makes a great best friend for your child.",
+      "image": "4-minion-kevin.jpg",
+      "age": [
+        "0", "10"
+      ],
+      "price": 512.99
+    },
+    {
+      "id": 4,
+      "name": "Minion 3",
+      "description": "Minion 3 is a short and bald minion with green and brown color eyes. He is extremely huggable and makes a great best friend for your  child.",
+      "image": "5-minion-bob.jpg",
+      "age": [
+        "0", "10"
+      ],
+      "price": 312.99
+    }
+  ]
+}
