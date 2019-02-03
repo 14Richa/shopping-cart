@@ -11,13 +11,13 @@ body {
 	margin: 10px auto;
 	background-color: white;
 	padding: 32px;
-	border-radius: 5%
+	border-radius: 5%;
 }
 
 .product-listing {
 	display: flex;
 	flex-wrap: wrap;
-	flex-direction: row;
+	flex-direction: flex;
 }
 
 .product-listing .product-list-item {
